@@ -3,7 +3,7 @@ version = 6
 cloudstream {
     authors     = listOf("keyiflerolsun", "usdogu")
     language    = "tr"
-    description = "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi."
+    description = "misu Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi."
 
     /**
      * Status int as the following:
